@@ -1,4 +1,4 @@
-# Mandate
+# AI Shopping Agent
 
 **Bounded spending authority for AI agents.**
 
@@ -17,7 +17,7 @@ Nobody hands an agent a card, because there's no way to say *"you may spend
 up to ₹1,000, only on groceries, only today"* and have that hold when the
 model is confused, jailbroken, or fed a malicious product listing.
 
-Mandate is that missing layer.
+This project is that missing layer.
 
 ## How it works
 
